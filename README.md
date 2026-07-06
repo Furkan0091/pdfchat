@@ -72,8 +72,6 @@ pip install -r requirements.txt
 
 # Configure environment
 cp .env .env
-# Add your GROQ_API_KEY to .env
-```
 
 ### 3. Run the backend
 ```bash
